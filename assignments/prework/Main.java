@@ -2,6 +2,7 @@ package assignments.prework;
 
 import java.util.Scanner;
 //importgsasf
+//casty again
 
 public class Main {
 //dfghjkl
