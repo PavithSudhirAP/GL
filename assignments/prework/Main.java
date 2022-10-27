@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 //dfghjkl
-Scanner sc = new Scanner(System.in);
+Scanner sc = new Scanner(System.in);//56789
 
        //function to checkPalindrome
        public void checkPalindrome() {
