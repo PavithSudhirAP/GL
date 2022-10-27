@@ -1,10 +1,10 @@
-//who knows?
+//who knows?//yayayaya
 
 
 public class MatrixAdditionExample{  
 public static void main(String args[]){  
 //creating two matrices    
-int a[][]={{1,3,4},{2,4,3},{3,4,5}};    
+int a[][]={{1,6,4},{2,4,3},{3,4,5}};    
 int b[][]={{1,3,4},{2,4,3},{1,2,4}};    
     
 //creating another matrix to store the sum of two matrices    

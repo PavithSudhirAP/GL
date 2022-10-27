@@ -4,8 +4,10 @@ import java.util.Scanner;
 //importgsasf
 
 public class Main {
+
 //dfghjkl  jd
 Scanner sc = new Scanner(System.in);
+
 
        //function to checkPalindrome
        public void checkPalindrome() {
