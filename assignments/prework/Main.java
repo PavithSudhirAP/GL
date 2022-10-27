@@ -2,10 +2,13 @@ package assignments.prework;
 
 import java.util.Scanner;
 //importgsasf
+//casty again
 
 public class Main {
-//dfghjkl
+
+//dfghjkl  jd
 Scanner sc = new Scanner(System.in);
+
 
        //function to checkPalindrome
        public void checkPalindrome() {
