@@ -19,7 +19,7 @@ Scanner sc = new Scanner(System.in);
 	   			rev = (rev * 10) + (temp % 10);
 	   			temp = temp / 10;
    			}
-	   		System.out.println("\n---------------------------------------------------------------------");
+	   		
 	                System.out.println("\n---------------------------------------------------------------------");
 	   		if (rev == num) {
 	   			System.out.println("Input number is a PALINDROME NUMBER.");
