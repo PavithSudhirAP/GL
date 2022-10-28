@@ -1,11 +1,8 @@
 //start123
-import java.text.ParseException;//134
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-//1234567//12345678//12345678//12345678 // poda oooola rameeessee
-//hdfgejfnby
-lyaefljhdsfsdljhgfdshgadsjhfgasdhfgsdjfhgsdkjhfgsdfgajsdhfg
-;kjsdh;kjshdlkjahdfgfsdfdshSGXf
+
 public class DateTest {
 	public static void main(String[] args) {
 		// return (String) result.getRow(0).getColumn("max").getValue().toString();
@@ -34,7 +31,7 @@ public class DateTest {
 		SimpleDateFormat dt2 = new SimpleDateFormat("yyyy-mm-dd hh:mm:ss");
 		String date_str2 = dt2.format(date_2);
 		System.out.println(date_str2);
-		System.out.println("--------");
+		
 
 		Date date_3 = null;
 		Date date=null;
@@ -51,4 +48,4 @@ public class DateTest {
 		
 	}
 
-}//end1
+}
