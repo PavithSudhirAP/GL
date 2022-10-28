@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 
 import com.greatlearning.employeemanagement.entity.User;
 import com.greatlearning.employeemanagement.repository.UserRepository;
-
+// service layer
 @Service
 public class UserImpl implements UserInterface {
 
