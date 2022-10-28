@@ -20,4 +20,4 @@ System.out.print(c[i][j]+" ");
 System.out.println();//new line    
 }    
 }}  
-System.out.println("-------------");
+
