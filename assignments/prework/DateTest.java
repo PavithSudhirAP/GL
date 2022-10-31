@@ -1,4 +1,4 @@
-//start123
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -17,8 +17,7 @@ public class DateTest {
 		// SimpleDateFormat dt1 = new SimpleDateFormat("MM/dd/yyyy");
 		// return dt1.format(date);
 		//yo yo yo yo
-		// //return gasFlowDate_returned;
-		//23456789 i
+		
 		
 		Date date_1 = new Date();
 		System.out.println(date_1);
