@@ -15,7 +15,6 @@ public class FP01Structured {
 		for(int n:numbers) {
 			System.out.println("------------------");
 			System.out.println(n);
-			System.out.println("-----------");
 			System.out.println("HI i am Castro-");
 
 			
